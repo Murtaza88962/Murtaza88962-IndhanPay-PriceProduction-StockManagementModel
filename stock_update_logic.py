@@ -1,6 +1,6 @@
 # src/stock_update_logic.py
 
-import pandas as pd
+import pandas as pd # type: ignore
 
 def predict_future_sales(model, features: pd.DataFrame):
     """Predict future units sold using trained model."""

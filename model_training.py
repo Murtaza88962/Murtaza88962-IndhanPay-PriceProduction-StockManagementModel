@@ -1,9 +1,9 @@
 # src/model_training.py
 
 import pickle
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.ensemble import RandomForestRegressor # type: ignore
+from sklearn.model_selection import train_test_split # type: ignore
+from sklearn.metrics import mean_squared_error, r2_score # type: ignore
 
 def train_random_forest(X, y):
     """Train Random Forest model."""

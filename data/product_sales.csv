@@ -1,0 +1,11 @@
+Product,Stock_Available,Selling_Price,Purchase_Price,Profit_Per_Unit,Units_Sold,Total_Sales_Amount,Total_Profit,Category
+Petrol,10792,85.56,90.63,-5.07,210,17967.6,-1064.7,Fuel
+Diesel,2774,236.23,105.49,130.74,245,57876.35,32031.3,Fuel
+CNG,8950,91.94,107.35,-15.41,319,29328.86,-4915.79,Fuel
+Engine Oil,13822,316.48,223.28,93.2,416,131655.68,38771.2,Non-Fuel
+Lubricants,11109,94.1,215.14,-121.04,437,41121.7,-52894.48,Non-Fuel
+Petrol Premium,13091,176.54,193.73,-17.19,416,73440.64,-7151.04,Fuel
+Diesel Premium,14790,253.46,131.9,121.56,264,66913.44,32091.84,Fuel
+CNG Plus,5799,114.7,207.25,-92.55,215,24660.5,-19898.25,Fuel
+Engine Oil Synthetic,1378,114.89,145.19,-30.3,438,50321.82,-13271.4,Non-Fuel
+Lubricants High Grade,11076,308.88,157.21,151.67,271,83706.48,41102.57,Non-Fuel
